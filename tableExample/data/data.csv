@@ -1,0 +1,12 @@
+Name,map x,map y,Founding Generation,Type,Alignment,Parent City,Founding Race,Main Export,Main Import,Magic Prescence,Government,Description
+Harraspor,587,433,1,City,LN,Valleyhome,Human,BlackMarket ,Food (All),High,Elders,Floating City
+Valleyhome,1129,82,1,City,LN,None,All,Knowledge,"Materials, MagicItems, Components",High,Elders,First Humanoid City
+Division,398,549,2,City,CG,Valleyhome,Elf,Food (Fish),"Materials, Food",Special,Council,Island Central Hub
+Livingstone,756,411,2,City,NG,Harraspor,Human,Food (Meat),"Stone, CraftGoods, Tools",Medium,Council,Pastoral Farm Hub
+Berwick,134,677,3,City,N,Livingstone,Human (C),"Lumber (Chery, Oak)","Tools, Food, Stone",High,Corporate,Farm Town
+Troon,1087,161,3,City,LG,Livingstone,Human (B),Food (Vegi),"MagicItems, Components, Stone",High,Kingdom,Farm Town
+Wellmother,1155,127,3,City,NG,Livingstone,Human (A),Lumber (Oak),"Tools, CraftGoods, MagicItems",HIgh,Kingdom,Farm Town
+Anstice,68,395,4,City,N,Wellmother,Human (A),"Foods (Meat, Fish, Vegi)","Tools, CraftGoods",HIgh,Elders,Farm Hub
+Du Bois,412,484,4,City,LN,Troon,Human (B),"Weapons,Tools","Stone, Metals, Knowledge",Low,Kingdom,Former Soldier Outpost
+Gel Havre,476,652,4,City,NE,Gt. Mangrove,Elf,"BlackMarket, Stone","CraftGoods, BlackMarket, Entertainment",Low,Syndicate,Marine Smuggling Hub
+Guntul True,586,179,4,City,LG,Valleyhome,Dwarf,"Gold,Silver,Gems,MagicItems","Foods, Lumber",HIgh,Priests,Mountain Border Town

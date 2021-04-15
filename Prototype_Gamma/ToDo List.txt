@@ -1,0 +1,37 @@
+[done] Summon units made from cards into territories
+Show the cards of the Units in the Territory when it is selected
+Select a Unit in a Territory based on which Card you click (still show ability text if card moused over)
+Make a menu system: include music controls (on/off, volume)
+Determine a player's Domain and display it
+Develop a way to define a grid size via a file alongside a map location
+Develop a way to define locations per age and display those in the current age only
+Use an alternate grid for the stone age
+Fix abilities not showing correctly - (WillOWisp may hold answers)
+Move grid so edges are consistent (either covered, or exposed on both sides)
+Mouse over cards to reveal ability descriptions
+Create interface for units and players (move, attack, defend, gather, garrison, explore ruin, research tree, found city, )
+Create room for artistic boarder
+
+explore multi-computer programs
+implement other players into game
+
+
+
+
+create a sub program:
+a 'tournament' among pictures in a file to determine the 'winner'
+pictures are presented in two panes, and the right/left arrow keys determine the winner of bouts (this is intended to happen quickly)
+images are presented in a pseudo-random order in which all images face each other every round, and a distinct winner is chosen every round
+the winners and loosers of each round are pooled together with like kind, and face each other in the next round
+in this fashion it should be possible to determine: the most extreme winner, the most extreme looser, strong winners, and weak loosers.
+
+modifications:
+instead of two panes, three or more images are presented at once to determine a winner (alliances? 2v1?)
+images are presented sequentially each round
+	in ascending order
+	in descending order
+	spiral out
+	spiral in
+Win, Loose, or Draw is chosen each round
+define an 'arena' where the fights take place, and administer different conditions that affect the battle space (weather effects, magic, etc)
+
